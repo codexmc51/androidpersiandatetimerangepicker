@@ -4,7 +4,6 @@ Android Persian Date Time Range Picker
 
 
 [![API](https://img.shields.io/badge/API-23%2B-green.svg?style=flat)](https://android-arsenal.com/api?level=23)
-Close
 
 
 
