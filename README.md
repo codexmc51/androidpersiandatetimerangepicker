@@ -13,10 +13,10 @@ Android Persian Date Time Range Picker
 https://github.com/codexmc51/androidpersiandatetimerangepicker/wiki
 
 
-![](https://raw.githubusercontent.com/codexmc51/androidpersiandatetimerangepicker/master/Screenshot_1475929401.png)
+![](http://cdn.persiangig.com/preview/dqsTDjiTH4/date.png)
 
 
-![](https://raw.githubusercontent.com/codexmc51/androidpersiandatetimerangepicker/master/Screenshot_1475929417.png)
+![](http://cdn.persiangig.com/preview/CWLrGnzmmZ/time.png)
 
 
 فروشی 
