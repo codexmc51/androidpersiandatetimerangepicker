@@ -19,5 +19,10 @@ https://github.com/codexmc51/androidpersiandatetimerangepicker/wiki
 ![](http://cdn.persiangig.com/preview/CWLrGnzmmZ/time.png)
 
 
-فروشی 
+
+
+پس از پرداخت از طریق لینک زیر با بنده تماس بگیرید.
+https://idpay.ir/parslearn/shop/8872
+
+
 تماس : https://telegram.me/Salman_sa
